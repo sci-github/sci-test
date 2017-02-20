@@ -1,4 +1,4 @@
-# sci-test
+# sci-test-repo (updated).
  public test code repository
 
 # edits made by Mukthiyar
